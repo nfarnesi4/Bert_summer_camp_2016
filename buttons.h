@@ -1,16 +1,22 @@
-#define FORWARD 53
+#ifndef BUTTONS_H
+#define BUTTONS_H
 
-#define BACKWARD 54
+//This defines all the values for the buttons
 
-#define LEFT 55
+#define FORWARD_ARROW 53
 
-#define RIGHT 56
+#define BACKWARD_ARROW 54
 
-#define ONE 49
+#define LEFT_ARROW 55
 
-#define TWO 50
+#define RIGHT_ARROW 56
 
-#define THREE 51
+#define BUTTON_ONE 49
 
-#define FOUR 52
+#define BUTTON_TWO 50
 
+#define BUTTON_THREE 51
+
+#define BUTTON_FOUR 52
+
+#endif
