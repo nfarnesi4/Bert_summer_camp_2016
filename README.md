@@ -13,5 +13,5 @@
 
 
 2. Wirirng Diagram
-   + The wire is included under the name BluetoothWiringDiagram_bb.jpg
-    
+   + (included) [BluetoothWiringDiagram_bb.jpg](https://github.com/nfarnesi4/Bert_summer_camp_2016/blob/master/BluetoothWiringDiagram_bb.jpg)
+   
