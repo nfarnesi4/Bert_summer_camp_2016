@@ -6,13 +6,9 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Test	KEYWORD1
-
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-
-doSomething	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
@@ -22,3 +18,18 @@ doSomething	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
+FORWARD_ARROW (LITERAL1)
+
+BACKWARD_ARROW (LITERAL1)
+
+LEFT_ARROW (LITERAL1)
+
+RIGHT_ARROW (LITERAL1)
+
+BUTTON_ONE (LITERAL1)
+
+BUTTON_TWO (LITERAL1)
+
+BUTTON_THREE (LITERAL1)
+
+BUTTON_FOUR (LITERAL1)

@@ -1,3 +1,5 @@
+#include <buttons.h>
+
 #include <RedBot.h>
 #include "buttons.h"
 RedBotMotors motors;
